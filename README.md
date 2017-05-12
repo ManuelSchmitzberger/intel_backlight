@@ -3,8 +3,5 @@ Tested on Arch Linux with intel card which manages the brightness.
 See https://wiki.archlinux.org/index.php/Backlight for more details.
 
 Basic usage:
-	Run the script as root.
-	Keys: 	up arrow 	= 	increases the brightness
-		down arrow 	= 	decreases the brightess
-
-Any comments are welcomed :)
+	backlight.sh 100	increase brightness
+	backlight.sh -100 	decrease brightness
