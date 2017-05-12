@@ -10,7 +10,7 @@ sudo visudo
 and add this line:
 
 ```
-#sudo   ALL=(ALL) NOPASSWD: /ABSOLUTE_PATH/backlight.sh#
+#sudo   ALL=(ALL) NOPASSWD: /ABSOLUTE_PATH/backlight.sh
 ```
 
 Basic usage:
